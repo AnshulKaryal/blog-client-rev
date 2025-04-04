@@ -1,1 +1,1 @@
-export const SERVERBASEURL = "http://localhost:3027/api/v1";
+export const SERVERBASEURL = "https://blog-server-rev.onrender.com/api/v1";
